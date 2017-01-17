@@ -1,0 +1,31 @@
+#content h2{
+	color: #21b5fd;
+	font-size: 25px;
+}
+.news{
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-bottom: 1px solid #222;
+}
+.img_news >img{
+	width: 100%;
+	height: auto;
+	border: 2px solid #ccc;
+}
+.img_details{
+	width: 70%;
+	margin: 0px auto;
+	margin-top: 50px;
+}
+.img_details >img{
+	width: 100%;
+	height: auto;
+	border: 2px solid #ccc;
+}
+
+.news_details{
+	font-size: 18px;
+	margin-top: 30px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid #0e619f;
+}

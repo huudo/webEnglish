@@ -1,0 +1,134 @@
+@media(max-width:767px){
+	#file1 > .caption > h3{
+		margin-top: 20px;
+	}
+	.navbar{	
+		font-size: 12px;	
+	}
+    #order{
+		width: 50px;
+		height: 45px;
+	}
+	h2{
+		font-size: 1.5rem;
+	}
+	.caption > h3{
+		font-size: 5px;
+		margin-top: 10px;
+	}
+	#file1 > span{
+	margin-top: 0%;
+	margin-left: 5%; 
+	}
+	#file2 > span{
+		margin-top: -10%;
+		margin-left: 5%;
+	}
+	#file3 > span{
+		margin-top: -10%;
+		margin-left: 6%;
+		
+	}
+	#file4 > span{
+		margin-top: -10%;
+		margin-left: 5%;		
+	}
+}
+@media(min-width:768px){
+
+	#file1 > .caption > h3{
+		margin-top: 57px;
+	}
+     #order{
+		width: 80px;
+		height: 75px;
+	}
+	h2{
+		font-size: 1.8rem;
+	}
+	.navbar{	
+		font-size: 12px;	
+	}
+	.caption > h3{
+		font-size: 15px;
+		margin-top: 10px;
+	}
+	#file1 > span{
+	margin-top: -5%;
+	margin-left: 5%;
+	}
+	#file2 > span{
+		margin-top: -10%;
+		margin-left: 5%;
+	}
+	#file3 > span{
+		margin-top: -10%;
+		margin-left: 6%;
+		
+	}
+	#file4 > span{
+		margin-top: -10%;
+		margin-left: 5%;
+		
+	}
+
+}
+
+@media(min-width:1200px){
+	#file1 > .caption > h3{
+		margin-top: 0px;
+	}
+	.navbar{	
+		font-size: 15px;	
+	}
+     #order{
+		width: 148px;
+		height: 128px;
+	}
+	h2{
+		font-size: 2.5rem;
+	}
+	.caption > h3{
+		font-size: 24px;
+		
+	}
+
+}
+@media(min-width:992px){
+	#file1 > .caption > h3{
+		margin-top: 12px;
+	}
+      #order{
+		width: 148px;
+		height: 128px;
+	}
+	.navbar{	
+		font-size: 15px;	
+	}
+	h2{
+		font-size: 2.5rem;
+	}
+	.caption > h3{
+		font-size: 24px;
+		
+	}
+	#file1 > span{
+	margin-top: 6%;
+	margin-left: 5%;
+	}
+	#file2 > span{
+		margin-top: -8%;
+		margin-left: 5%;
+	}
+	#file3 > span{
+		margin-top: -8%;
+		margin-left: 6%;
+		
+	}
+	#file4 > span{
+		margin-top: -8%;
+		margin-left: 5%;
+		
+	}
+
+}

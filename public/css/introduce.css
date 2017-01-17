@@ -1,0 +1,18 @@
+.img_intro img{
+	width: 100%;
+	height: auto;
+}
+.content_intro > h1{
+	font-size: 28px;
+	color: #0a81ba;
+}
+#content p{
+	font-size: 16px;
+
+}
+.text_intro{
+	padding: 25px;
+}
+.text_intro li{
+	list-style-type: none;
+}

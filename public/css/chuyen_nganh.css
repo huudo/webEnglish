@@ -1,0 +1,40 @@
+img{
+	width: 100%;
+	height: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+ h2{
+	font-size: 25px !important;
+	color: #11b7e7 ;
+}
+p{
+	font-size: 16px;
+}
+#hot_line p{
+	font-size: 26px;
+}
+
+.group_chuyen_nganh{
+	width: 90%;
+	margin-top: 50px;
+	margin: 0px auto;
+}
+.show_cnganh{
+	width: 95%;
+	padding: 8px;
+	margin: 0px auto;
+	background: #007bb5;
+	
+}
+.show_cnganh h2{
+	color: #fff;
+}
+.details_cnganh{
+	text-align: center;
+	margin-top: 10px;
+}
+.show_cnganh h2:hover{
+	cursor: pointer;
+	color: #fdff08;
+};
